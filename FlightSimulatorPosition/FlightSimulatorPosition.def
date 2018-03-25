@@ -1,0 +1,5 @@
+LIBRARY "FlighSimluatorPosition"
+
+EXPORTS
+DLLStart
+DLLStop
